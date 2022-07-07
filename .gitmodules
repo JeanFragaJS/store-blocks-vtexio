@@ -4,3 +4,6 @@
 [submodule "store-block-template-custom-vtex-io"]
 	path = store-block-template-custom-vtex-io
 	url = git@github.com:JeanFragaJS/react-store-block-template.git
+[submodule "store-theme"]
+	path = store-theme
+	url = git@github.com:JeanFragaJS/store-theme-vtex-io.git
