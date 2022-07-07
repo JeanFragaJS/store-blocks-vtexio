@@ -1,0 +1,3 @@
+[submodule "store-block-template-custom"]
+	path = store-block-template-custom
+	url = git@github.com:JeanFragaJS/react-store-block-template.git
